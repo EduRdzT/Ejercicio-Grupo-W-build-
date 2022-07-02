@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39e6b08e.css",
+    "main.js": "/static/js/main.2118155a.js",
+    "static/js/787.3fe99832.chunk.js": "/static/js/787.3fe99832.chunk.js",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/Fiat_Logo.png": "/static/media/Fiat_Logo.af5905ec1daa48054cee.png",
+    "static/media/Fiat_500X_RED.png": "/static/media/Fiat_500X_RED.34d27778f6902de1a505.png",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "index.html": "/index.html",
+    "main.39e6b08e.css.map": "/static/css/main.39e6b08e.css.map",
+    "main.2118155a.js.map": "/static/js/main.2118155a.js.map",
+    "787.3fe99832.chunk.js.map": "/static/js/787.3fe99832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e6b08e.css",
+    "static/js/main.2118155a.js"
+  ]
+}
